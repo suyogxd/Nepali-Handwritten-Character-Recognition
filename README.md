@@ -38,3 +38,6 @@ Dataset is included in this repository or can be downloaded from Kaggle website.
 # Accuracy of the Model-
 1.	Training Accuracy: 0.9914
 2.	Validation Accuracy: 0.9837
+
+# Additional Functionality-
+1. The model can predict simpler words like कलम, कमल, सरल, घर, etc that doesnot contain any vowel characters and modifiers (ह्रस्व, दीर्घ) by concatenating the individual characters and forming a single word.
