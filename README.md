@@ -23,7 +23,7 @@ Devanagari is the national font of Nepal and also used throughout the various pa
   Text-to-Speech: Converts recognized text into speech for enhanced accessibility, benefiting visually impaired users and children.
 
 # Dataset and Model Training-
-Dataset is included in this repository or can be downloaded from Kaggle website.
+Dataset can be downloaded from Kaggle website. Here is the link - https://www.kaggle.com/datasets/rishianand/devanagari-character-set
   1. Focus: Nepali language in the Devanagari script, with 92,000 handwritten images.
   2. Characters: 46 distinct characters (36 consonants, 10 numerals), 2000 images per class.
   3. Image Size: 32x32 pixels.
