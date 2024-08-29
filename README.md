@@ -41,3 +41,16 @@ Dataset can be downloaded from Kaggle website. Here is the link - https://www.ka
 
 # Additional Functionality-
 1. The model can predict simpler words like कलम, कमल, सरल, घर, etc that doesnot contain any vowel characters and modifiers (ह्रस्व, दीर्घ) by concatenating the individual characters and forming a single word.
+
+# Snapshots of the project-
+![Project Screenshot](nhcr.png) 
+<p><i>fig 1 : UI interface (Homepage) of the project.</i></p> <br>
+
+![Project Screenshot](nhcr_canvas.png) 
+<p><i>fig 2 : Write on canvas feature</i></p> <br>
+
+![Project Screenshot](nhcr_upload.png) <br>
+<p><i>fig 3 : Predict by uploading the photo with black background and white text.</i></p> <br>
+
+![Project Screenshot](nhcr_word.png) <br>
+<p><i>fig 4 : Word prediction by concatenation of characters.</i></p> <br>
